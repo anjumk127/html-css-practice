@@ -28,5 +28,5 @@
         <li> Item 5</li>
     </ul>
     <p><strong>THIS TEXT IS BOLD</strong></p>
-    <p><em>tTHIS TEXT IS ITALIC</em></p>
+    <p><em>THIS TEXT IS ITALIC</em></p>
 </body>
